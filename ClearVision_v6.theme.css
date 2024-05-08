@@ -107,3 +107,7 @@
   --user-modal-grayscale: var(--background-grayscale); /* user modal background grayscale (0 - 100%) [default: var(--background-grayscale)] */
   --user-modal-sepia: var(--background-sepia); /* user modal background sepia (0 - 100%) [default: var(--background-sepia)] */
   --user-modal-blur: calc(var(--background-blur) + 3px); /* user modal background blur [default: calc(var(--background-blur) + 3px)] */
+
+    .wordmark__5b8c9 {
+    display: none;
+}
