@@ -1222,6 +1222,9 @@
 .tooltipPrimary__51b23 {
   @extend %tooltipPrimary !optional;
 }
+.tooltipNested_ee18f0 {
+  @extend %tooltipNested !optional;
+}
 .tooltipBrand__68214 {
   @extend %tooltipBrand !optional;
 }
@@ -4345,7 +4348,7 @@ pre {
 .watchButton__5a93d {
   @extend %streamPopoutWatchButton !optional;
 }
-.popout__4c91f {
+.popout__7a706 {
   @extend %vcActivityPopout !optional;
 }
 .popout__4c91f {
